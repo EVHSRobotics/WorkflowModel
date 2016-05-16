@@ -2,5 +2,5 @@
 
 - Kevin Wang
 
-I am the contents of the first feature.
+require Feature1 contents
 
